@@ -155,11 +155,13 @@ function exercise12() {
 
 exercise12();
 
-// exercise11();
-// exercise9();
-// exercise7();
-// exercise5(2000);
-// exercise4(5, 6, 7); 
-// exercise3();
-// exercise2();
-// exercise1();
+exercise11();
+exercise9();
+exercise7();
+exercise5(2000);
+exercise4(5, 6, 7); 
+exercise3();
+exercise2();
+exercise1();
+
+sakjdsakdjqwuejkjqwjkqw
